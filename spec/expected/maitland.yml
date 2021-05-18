@@ -1,434 +1,1133 @@
 ---
-- council_reference: CC/2019/530
-  address: 3 Angelica  Road  CHISHOLM  NSW  2322
-  description: Dwelling - Single Storey
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+- council_reference: CC/2020/671:1
+  address: 11 Maidford Street  THORNTON  NSW  2322
+  description: Dual Occupancy - Modification to Rainwater Tank Size and Stormwater
+    Drainage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: CC/2019/532
-  address: 14 High Street  MORPETH  NSW  2321
-  description: Secondary Dwelling
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: CC/2019/533
-  address: 14 Kilkenny Circuit  ASHTONFIELD  NSW  2323
-  description: Shed
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: CC/2019/534
-  address: 67 Tarragon Way  CHISHOLM  NSW  2322
-  description: Shed
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: CC/2019/535
-  address: 22 Fitzroy Street  EAST MAITLAND  NSW  2323
-  description: Swimming Pool
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: CC/2019/536
-  address: 13 Lucy Place  RAWORTH  NSW  2321
-  description: Dwelling Alterations/Additions - Shed and Deck
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: CC/2019/537
-  address: 47 Grand Parade  RUTHERFORD  NSW  2320
-  description: Dwelling Single Storey
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: CC/2019/538
-  address: 101 Billabong Parade  CHISHOLM  NSW  2322
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: CC/2019/539
-  address: 2 Red Arrow Close  CHISHOLM  NSW  2322
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: CC/2019/540
-  address: 24 Lancaster Street  THORNTON  NSW  2322
-  description: Dwelling - Single Storey
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: CC/2019/541
-  address: 5 Collaroy Parade  LOUTH PARK  NSW  2320
-  description: Dwelling - Two Storey
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: CC/2019/542
-  address: 30 John Verge Avenue  RUTHERFORD  NSW  2320
-  description: Patio Cover
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: CC/2019/543
-  address: 2 Collaroy Parade  LOUTH PARK  NSW  2320
-  description: Dwelling - Single Storey
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: CC/2019/544
-  address: 21 Young Street  EAST MAITLAND  NSW  2323
-  description: Dwelling alteration/addition (attached)
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: CC/2019/545
-  address: 177A Bolwarra Park Drive  BOLWARRA HEIGHTS  NSW  2320
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: CC/2019/546
-  address: 6 Cockatoo Ridge  ABERGLASSLYN  NSW  2320
-  description: Dwelling alteration/addition (attached)
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: CC/2019/547
-  address: 4 Newfield Street  RUTHERFORD  NSW  2320
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: CC/2019/548
-  address: 82 Ballydoyle Drive  ASHTONFIELD  NSW  2323
-  description: Shed
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: CC/2019/549
-  address: 3 Eldon Drive  LOUTH PARK  NSW  2320
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: CC/2019/550
-  address: 79 Tarragon Way  CHISHOLM  NSW  2322
-  description: Dwelling - Two Storey
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: CC/2019/551
-  address: 44 Tournament Street  RUTHERFORD  NSW  2320
-  description: Dwelling house, Fence/retaining wall
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: CC/2019/552
-  address: 8 Lambert Close  BOLWARRA  NSW  2320
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: CC/2019/553
-  address: 17 Carnival Close  WINDELLA  NSW  2320
-  description: Secondary dwelling
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: CC/2019/554
-  address: 30 Lancaster Street  THORNTON  NSW  2322
+  date_received: '2021-05-10'
+- council_reference: CC/2021/181:1
+  address: 41 Magnetic Drive  ASHTONFIELD  NSW  2323
   description: Dual occupancy (attached)
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: CC/2019/555
-  address: 34 Lancaster Street  THORNTON  NSW  2322
-  description: Dual occupancy (attached)
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-11'
+- council_reference: CC/2021/181:2
+  address: 41 Magnetic Drive  ASHTONFIELD  NSW  2323
+  description: Amendment - Two Storey Dual Occupancy
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: CC/2019/556
-  address: 12 Hunter Close  LOCHINVAR  NSW  2321
+  date_received: '2021-05-10'
+- council_reference: CC/2021/260:1
+  address: 152 Lawes Street  EAST MAITLAND  NSW  2323
+  description: CC Modification Additions To The Dwelling
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: CC/2021/341
+  address: 6 Hilltop Crescent  BOLWARRA HEIGHTS  NSW  2320
+  description: Patio
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: CC/2021/345
+  address: 9 Thornbill Grove  THORNTON  NSW  2322
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: CC/2021/346
+  address: 17 Tourmaline Drive RUTHERFORD  NSW  2320
+  description: Dwelling, Attached Secondary Dwelling and Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC/2021/347
+  address: 32 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: CC/2021/348
+  address: 26 Kingham Circuit THORNTON  NSW  2322
+  description: ''
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: CC/2021/349
+  address: 30 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition Home -Single Storey Dwelling
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: CC/2021/350
+  address: 28 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition Home - Single Storey Dwelling
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: CC/2021/351
+  address: 83 Grand Parade RUTHERFORD  NSW  2320
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: CC/2021/352
+  address: 47 Ruby Road RUTHERFORD  NSW  2320
+  description: Dwelling - Single Storey and Attached Secondary Dwelling and Retaining
+    Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC/2021/353
+  address: 45 Ellie Avenue  RAWORTH  NSW  2321
+  description: Dwelling, Attached Secondary Dwelling and Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: CC/2021/354
+  address: 8 Roy Street  LORN  NSW  2320
+  description: Dwelling Alterations and Additions
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: CC/2021/355
+  address: 3 Cascade Close  LOUTH PARK  NSW  2320
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: CC/2021/356
+  address: 132 Saddlers Drive  GILLIESTON HEIGHTS  NSW  2321
+  description: Dual occupancy (detached), Subdivision - Torrens Title
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC/2021/358
+  address: 9 Wicklow Road  CHISHOLM  NSW  2322
+  description: Dwelling - Single Storey and Retaining Wall
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC/2021/359
+  address: 42 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition Home, Retaining Wall, Signage and Showroom
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC/2021/360
+  address: 40 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition Home, Retaining Wall, Signage and Sales Office
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC/2021/361
+  address: 80 Budgeree Drive  ABERGLASSLYN  NSW  2320
   description: Carport
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: CDC/2016/2221:1
-  address: 76 Dragonfly Drive  CHISHOLM  NSW  2322
-  description: Single Storey Dwelling, Remove Retaining Wall
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-05'
+- council_reference: CC/2021/362
+  address: 2 Mala Close  LOUTH PARK  NSW  2320
+  description: Cabana, Earthworks and Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: CDC/2019/313
-  address: 3 Carey Close  LOUTH PARK  NSW  2320
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-04'
+- council_reference: CC/2021/363
+  address: 245 Morpeth Road  RAWORTH  NSW  2321
+  description: Multi dwelling housing, Subdivision - Torrens Title
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: CDC/2019/314
-  address: 29 Percher Street  CHISHOLM  NSW  2322
-  description: Swimming Pool
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-06'
+- council_reference: CC/2021/364
+  address: 4 Tralee Close  ASHTONFIELD  NSW  2323
+  description: Extension to existing Garage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: CDC/2019/315
-  address: 11 Harlington Avenue  FARLEY  NSW  2320
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: CDC/2019/316
-  address: 65 Barr Promenade  THORNTON  NSW  2322
-  description: Swimming Pool
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: CDC/2019/317
-  address: 18 Friarbird Ridge  ABERGLASSLYN  NSW  2320
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: CDC/2019/318
-  address: 15 Collaroy Parade  LOUTH PARK  NSW  2320
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: CDC/2019/319
-  address: 7 Vantage Court  BOLWARRA  NSW  2320
-  description: Swimming Pool
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: CDC/2019/320
-  address: 14 Corella Close  ABERGLASSLYN  NSW  2320
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: CDC/2019/321
-  address: 16 Whiteley Avenue  METFORD  NSW  2323
-  description: Swimming Pool
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: CDC/2019/322
-  address: 4 Ibis Parade  WOODBERRY  NSW  2322
+  date_received: '2021-05-07'
+- council_reference: CC/2021/365
+  address: 209 Parish Drive  THORNTON  NSW  2322
   description: Dwelling alteration/addition (attached)
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: CDC/2019/324
-  address: 2 Angelica  Road  CHISHOLM  NSW  2322
+  date_received: '2021-05-06'
+- council_reference: CC/2021/366
+  address: 34 Forest Hill Drive  OAKHAMPTON HEIGHTS  NSW  2320
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CC/2021/367
+  address: 41 Peterson Parade  THORNTON  NSW  2322
+  description: Garage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: CC/2021/368
+  address: 5 Crestwood Road  THORNTON  NSW  2322
   description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: CDC/2019/325
-  address: 22 Harlington Avenue  FARLEY  NSW  2320
-  description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: DA/2017/1173:1
-  address: 2 Watervale Circuit  CHISHOLM  NSW  2322
-  description: Section 4.55 (1A) Modification - Reduction in Building Floor Area
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA/2018/1691:1
-  address: 27 Percher Street  CHISHOLM  NSW  2322
+  date_received: '2021-05-07'
+- council_reference: CC/2021/369
+  address: 45 Esk  Circuit  MAITLAND VALE  NSW  2320
   description: Dwelling house, Fence/retaining wall
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA/2018/1846:1
-  address: 54 Martins Wharf Road  MILLERS FOREST  NSW  2324
-  description: Amend Location of Mound For Future Dwelling
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-10'
+- council_reference: CC/2021/370
+  address: 9 Skilton Avenue  EAST MAITLAND  NSW  2323
+  description: Multi Dwelling Housing - Five x Two Storey Attached Dwellings and Retaining
+    Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: DA/2019/558
-  address: 3 Angelica  Road  CHISHOLM  NSW  2322
-  description: Dwelling - Single Storey
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-10'
+- council_reference: CC/2021/371
+  address: 41 Magnetic Drive  ASHTONFIELD  NSW  2323
+  description: Two Storey Dual Occupancy
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA/2019/559
-  address: 25 Irma Place  LOCHINVAR  NSW  2321
-  description: Dwelling - Single Storey
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-12'
+- council_reference: CC/2021/372
+  address: 3 Lochill Close  LOCHINVAR  NSW  2321
+  description: Secondary dwelling
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA/2019/560
-  address: 18 Bairds Close  RUTHERFORD  NSW  2320
-  description: Tree Application
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-11'
+- council_reference: CC/2021/373
+  address: 96 Somerset Drive  THORNTON  NSW  2322
+  description: Carport
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA/2019/561
-  address: 43 Ferraby Drive  METFORD  NSW  2323
-  description: Change of use of premises - Dwelling to Group Home (Permanent)
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA/2019/562
-  address: 14 Kilkenny Circuit  ASHTONFIELD  NSW  2323
+  date_received: '2021-05-14'
+- council_reference: CC/2021/374
+  address: 8 Marika Street LOCHINVAR  NSW  2321
   description: Shed
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA/2019/563
-  address: 67 Tarragon Way  CHISHOLM  NSW  2322
+  date_received: '2021-05-14'
+- council_reference: CC/2021/375
+  address: Bonar Street  MAITLAND  NSW  2320
+  description: Dwelling - Two Storey with Parking Below
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-13'
+- council_reference: CC/2021/377
+  address: 6 Musgrave Avenue  MAITLAND VALE  NSW  2320
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: CC/2021/378
+  address: 56 Stayard Drive  BOLWARRA HEIGHTS  NSW  2320
   description: Shed
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA/2019/564
-  address: 14 Cross Street  SOUTH MAITLAND  NSW  2320
-  description: Tree Application
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-13'
+- council_reference: CC/2021/379
+  address: 15 Thompson Street  RUTHERFORD  NSW  2320
+  description: Dwelling Alterations and Additions (Attached)
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA/2019/565
-  address: 13 Lucy Place  RAWORTH  NSW  2321
-  description: Dwelling Alterations/Additions - Shed and Deck
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-13'
+- council_reference: CC/2021/380
+  address: 192 Denton Park Drive ABERGLASSLYN  NSW  2320
+  description: Dual occupancy (attached), Subdivision - Strata Title
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: DA/2019/566
-  address: 3 Norfolk Street  ASHTONFIELD  NSW  2323
-  description: Alterations and Additions to Existing Public School (Ashtonfield)
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-13'
+- council_reference: CC/2021/381
+  address: 26 Fairway Street  RUTHERFORD  NSW  2320
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: DA/2019/567
-  address: 24 Lancaster Street  THORNTON  NSW  2322
-  description: Dwelling - Single Storey
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: DA/2019/568
-  address: 5 Collaroy Parade  LOUTH PARK  NSW  2320
-  description: Dwelling - Two Storey
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: DA/2019/569
-  address: 30 John Verge Avenue  RUTHERFORD  NSW  2320
-  description: Patio Cover
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: DA/2019/570
-  address: 2 Collaroy Parade  LOUTH PARK  NSW  2320
-  description: Dwelling - Single Storey
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: DA/2019/571
-  address: 21 Young Street  EAST MAITLAND  NSW  2323
+  date_received: '2021-05-13'
+- council_reference: CC/2021/382
+  address: 4 Mala Close  LOUTH PARK  NSW  2320
   description: Dwelling alteration/addition (attached)
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: DA/2019/572
-  address: 7 Rebecca Close  RUTHERFORD  NSW  2320
-  description: Secondary dwelling, Subdivision - Torrens Title
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-14'
+- council_reference: CC/2021/383
+  address: 51 Ruby Road RUTHERFORD  NSW  2320
+  description: Dual occupancy (detached), Fence/retaining wall
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: DA/2019/573
-  address: 547 Raymond Terrace Road  CHISHOLM  NSW  2322
-  description: Subdivision - New Road
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-17'
+- council_reference: CC/2021/384
+  address: 34 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition home, Signage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA/2019/574
-  address: 547 Raymond Terrace Road  CHISHOLM  NSW  2322
-  description: Subdivision - New Road
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA/2019/575
-  address: 361 Morpeth Road  MORPETH  NSW  2321
-  description: Road
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA/2019/576
-  address: 12 Cornwell Street  THORNTON  NSW  2322
-  description: Change of use of premises - Residential Home to Group Home
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA/2019/577
-  address: 4 Lancaster Street  THORNTON  NSW  2322
-  description: Change of use of premises - Residential Home to Group Home
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA/2019/578
-  address: 82 Ballydoyle Drive  ASHTONFIELD  NSW  2323
-  description: Shed
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA/2019/579
-  address: 3 Eldon Drive  LOUTH PARK  NSW  2320
+  date_received: '2021-05-14'
+- council_reference: CC/2021/385
+  address: 34 Meadowhawk Street CHISHOLM  NSW  2322
   description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: DA/2019/580
-  address: 12 Irma Place  LOCHINVAR  NSW  2321
+  date_received: '2021-05-14'
+- council_reference: CC/2021/386
+  address: 38 Richard Road  RUTHERFORD  NSW  2320
+  description: Carport
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: CC/2021/387
+  address: 27 Hilldale Drive  BOLWARRA HEIGHTS  NSW  2320
+  description: Dwelling alteration/addition (attached)
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CC/2021/388
+  address: 74 Tarragon Way  CHISHOLM  NSW  2322
+  description: Dwelling house, Fence/retaining wall
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CC/2021/389
+  address: 34 Hillgate Drive THORNTON  NSW  2322
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CC/2021/390
+  address: 119 Princess Street  MORPETH  NSW  2321
+  description: Dwelling alteration/addition (attached)
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CC/2021/391
+  address: 7 Sebastian Street LOCHINVAR  NSW  2321
   description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: DA/2019/581
-  address: 21 Belmore Road  LORN  NSW  2320
-  description: Change of use of premises - Dwelling to Professional Consult Rooms
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: DA/2019/582
-  address: 8 Lambert Close  BOLWARRA  NSW  2320
+  date_received: '2021-05-17'
+- council_reference: CC/2021/392
+  address: 14 Ossa Street LOUTH PARK  NSW  2320
   description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: DA/2019/583
-  address: 37 Page Street  EAST MAITLAND  NSW  2323
-  description: Dual occupancy (attached), Dwelling house, Subdivision - Torrens Title,
-    Subdivision - Strata Title, Demolition
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-17'
+- council_reference: CC/2021/80:1
+  address: 76 Ardennes Circuit  GILLIESTON HEIGHTS  NSW  2321
+  description: Clause 148 Modification - Amendment to Proposed Retaining Wall
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA/2019/584
-  address: 552 Luskintyre Road  LUSKINTYRE  NSW  2321
+  date_received: '2021-05-05'
+- council_reference: CDC/2019/404:1
+  address: 29 Silkstone Street  FARLEY  NSW  2320
+  description: Dwelling house, Fence/retaining wall
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CDC/2021/194
+  address: 19 Arklow Crescent CHISHOLM  NSW  2322
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: CDC/2021/195
+  address: 11 Hunterglen Drive BOLWARRA  NSW  2320
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: CDC/2021/196
+  address: 150A Bolwarra Park Drive  BOLWARRA HEIGHTS  NSW  2320
   description: Swimming Pool
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA/2019/585
-  address: 32 Kensington Road  BOLWARRA  NSW  2320
-  description: Dwelling house, Garage
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-03'
+- council_reference: CDC/2021/197
+  address: 15 King Street  LORN  NSW  2320
+  description: Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA/2019/586
-  address: 73 Owlpen Lane  FARLEY  NSW  2320
+  date_received: '2021-05-05'
+- council_reference: CDC/2021/198
+  address: 12 Mount Harris Drive  MAITLAND VALE  NSW  2320
+  description: Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: CDC/2021/199
+  address: 41 Airlie Street  ASHTONFIELD  NSW  2323
+  description: Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: CDC/2021/200
+  address: 3 Melody Way LOCHINVAR  NSW  2321
   description: Dwelling house
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: SM2019/15
-  address: 45 Cantwell Road  LOCHINVAR  NSW  2321
-  description: Sewage Management Facility
-  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXBNFETMAQkZFBEZAXxERQgcwERAAH0YWSzgRBFwdIxUHHRleNAMcEgA%3D#/home
+  date_received: '2021-05-06'
+- council_reference: CDC/2021/201
+  address: 23 Fairway Street  RUTHERFORD  NSW  2320
+  description: Dwelling alteration/addition (attached)
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
   date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
+  date_received: '2021-05-06'
+- council_reference: CDC/2021/202
+  address: 12 Ossa Street LOUTH PARK  NSW  2320
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: CDC/2021/203
+  address: 6 Mustang Drive  RUTHERFORD  NSW  2320
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: CDC/2021/204
+  address: 61 William Street  EAST MAITLAND  NSW  2323
+  description: Covered Deck
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: CDC/2021/205
+  address: 9 Musgrave Avenue  MAITLAND VALE  NSW  2320
+  description: Swimming Pool and Associated Safety Barriers
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: CDC/2021/206
+  address: 15 Stillwater Parade CHISHOLM  NSW  2322
+  description: Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: CDC/2021/207
+  address: 3 Bordeaux Terrace LOCHINVAR  NSW  2321
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CDC/2021/208
+  address: 5 Bordeaux Terrace LOCHINVAR  NSW  2321
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CDC/2021/209
+  address: 14 Fontana Street CHISHOLM  NSW  2322
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: CDC/2021/210
+  address: 23 Birch Grove ABERGLASSLYN  NSW  2320
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: CDC/2021/211
+  address: 4 Charlotte Street LOCHINVAR  NSW  2321
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: CDC/2021/212
+  address: 8 Maybush Avenue  THORNTON  NSW  2322
+  description: Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: CDC/2021/213
+  address: 3 Gumnut Way  ABERGLASSLYN  NSW  2320
+  description: Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-13'
+- council_reference: CDC/2021/214
+  address: 196 Denton Park Drive ABERGLASSLYN  NSW  2320
+  description: Subdivision Works Certificate
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-13'
+- council_reference: CDC/2021/215
+  address: 194 Denton Park Drive ABERGLASSLYN  NSW  2320
+  description: Construction Certificate (Subdivision Works)
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-13'
+- council_reference: CDC/2021/216
+  address: 198 Denton Park Drive ABERGLASSLYN  NSW  2320
+  description: Construction Certificate (Subdivision Works)
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: CDC/2021/217
+  address: 3 Charlotte Street LOCHINVAR  NSW  2321
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: CDC/2021/218
+  address: 21 Paterson Street  EAST MAITLAND  NSW  2323
+  description: Dwelling alteration/addition (attached)
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CDC/2021/219
+  address: 18 Bordeaux Terrace LOCHINVAR  NSW  2321
+  description: Single Storey Dwelling
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CDC/2021/220
+  address: 17 Arrowtail Street  CHISHOLM  NSW  2322
+  description: Patio Cover
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CDC/2021/221
+  address: 3 Kamala Court ABERGLASSLYN  NSW  2320
+  description: Dwelling house, Secondary dwelling
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: CDC/2021/222
+  address: 35 Dunmore Road  LARGS  NSW  2320
+  description: Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: CDC/2021/223
+  address: 4 Melody Way LOCHINVAR  NSW  2321
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CDC/2021/224
+  address: 3 Red Baron Road CHISHOLM  NSW  2322
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CDC/2021/226
+  address: 25 Glenlee Court  THORNTON  NSW  2322
+  description: Garage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CDC/2021/227
+  address: 12 Kamala Court ABERGLASSLYN  NSW  2320
+  description: Dwelling house
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CDC/2021/228
+  address: 20 Bordeaux Terrace LOCHINVAR  NSW  2321
+  description: Dwelling house, Fence/retaining wall
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CDC/2021/229
+  address: 74A Mustang Drive  RUTHERFORD  NSW  2320
+  description: Office premises
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CDC/2021/230
+  address: 21 Johannes Street LOCHINVAR  NSW  2321
+  description: Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: CDC/2021/231
+  address: 20 Suncroft Street CHISHOLM  NSW  2322
+  description: Dwelling house, Fence/retaining wall
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-18'
+- council_reference: DA/2007/334:1
+  address: 7 Stuart Street  LORN  NSW  2320
+  description: Section 4.55 (1) Modification - modify awning at rear, replace skillion
+    roof, new timber deck beneath awning
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA/2009/2756:3
+  address: 4 Dietrich Close  RUTHERFORD  NSW  2320
+  description: Section 4.55 (1A) Modification - Changes to Internal Layout
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-18'
+- council_reference: DA/2016/522:2
+  address: 391 Cessnock Road  GILLIESTON HEIGHTS  NSW  2321,395 Cessnock Road  GILLIESTON
+    HEIGHTS  NSW  2321,405 Cessnock Road  GILLIESTON HEIGHTS  NSW  2321,411 Cessnock
+    Road  GILLIESTON HEIGHTS  NSW  2321
+  description: S4.55(1A) Modification - Increase Residential Lots from 44 to 45 and
+    Boundary Adjustment
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA/2018/1524:2
+  address: 21 Lorn Street  LORN  NSW  2320
+  description: Section 4.55(1A) Modification to Tennis Court - Rotate 90 Degrees and
+    Increase Finished Floor Level
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA/2020/698:1
+  address: 57-59 Shipley Drive  RUTHERFORD  NSW  2320
+  description: s4.55(1A) modification to alterations and additions to existing recreation
+    facility (indoor) - amend approved ground floor and upper level mezzanine plan
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2020/785:1
+  address: 108 Elgin Street  MAITLAND  NSW  2320
+  description: Section 4.55 (1A) Modification - Modify size and scale of approved
+    building
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: DA/2021/106:1
+  address: 76 Ardennes Circuit  GILLIESTON HEIGHTS  NSW  2321
+  description: Section 4.55 (1A) Modification - Amendment to Proposed Retaining Wall
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA/2021/159:1
+  address: 10 Pipeclay Avenue  THORNTON  NSW  2322
+  description: Section 4.55 (1A) Modification - Amendment to Conditions regarding
+    Patron Capacity and Hours of Operation
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-13'
+- council_reference: DA/2021/308:1
+  address: 27 Tourmaline Drive RUTHERFORD  NSW  2320
+  description: S4.55(1A) Modification - Amendment for Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: DA/2021/314:1
+  address: 31 Tourmaline Drive RUTHERFORD  NSW  2320
+  description: S4.55(1A) Modification - Amendment of Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA/2021/318:1
+  address: 7 Barnstable Street THORNTON  NSW  2322
+  description: S4.55 (1A) Modification - Increase to Garage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: DA/2021/321:1
+  address: 23 Tourmaline Drive RUTHERFORD  NSW  2320
+  description: Section 4.55 (1A) Modification - Amendment to Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA/2021/404
+  address: 3 Riverdale Close RUTHERFORD  NSW  2320
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/458
+  address: 26 Cagney Road  RUTHERFORD  NSW  2320
+  description: Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: DA/2021/462
+  address: 20 Robins Street  HORSESHOE BEND  NSW  2320
+  description: Dwelling and Detached Garage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/469
+  address: 29 Pandanus Circuit  BOLWARRA  NSW  2320
+  description: Home Business - Beauty and Skin Penetration
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-13'
+- council_reference: DA/2021/470
+  address: 25 Queen Street  LORN  NSW  2320
+  description: Demolition of Existing Structures, Construction of a Dwelling and Detached
+    Garage and Carport
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA/2021/472
+  address: 6 Hilltop Crescent  BOLWARRA HEIGHTS  NSW  2320
+  description: Patio
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: DA/2021/473
+  address: 213 Station Lane  LOCHINVAR  NSW  2321,229 Station Lane  LOCHINVAR  NSW  2321
+  description: Torrens Title Subdivision - Two (2) into Two Hundred and Twenty Four
+    (224) Lots
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA/2021/475
+  address: 9 Barnstable Street THORNTON  NSW  2322
+  description: Exhibition Home, Signage, Swimming Pool & Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: DA/2021/477
+  address: 187 Parish Drive  THORNTON  NSW  2322
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: DA/2021/478
+  address: 9 Hodge Street EAST MAITLAND  NSW  2323
+  description: Secondary Dwelling and Alterations/Additions to Existing Dwelling
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: DA/2021/482
+  address: 29 James Leslie Drive  GILLIESTON HEIGHTS  NSW  2321
+  description: Alterations and Additions - Upper Level Addition to Existing Residence
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA/2021/483
+  address: 9 Hinchinbrook Close  ASHTONFIELD  NSW  2323
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: DA/2021/485
+  address: 31 High Street  MORPETH  NSW  2321
+  description: Modification to Unauthorised Works
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA/2021/486
+  address: 58 Redwood Drive  GILLIESTON HEIGHTS  NSW  2321
+  description: Dwelling, Attached Secondary Dwelling & Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA/2021/487
+  address: 9 Thornbill Grove  THORNTON  NSW  2322
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/488
+  address: 17 Tourmaline Drive RUTHERFORD  NSW  2320
+  description: Dwelling, Attached Secondary Dwelling and Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA/2021/489
+  address: 14 Wattle Close  METFORD  NSW  2323
+  description: Patio and Deck
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/490
+  address: 47 Ruby Road RUTHERFORD  NSW  2320
+  description: Dwelling, Attached Secondary Dwelling and Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA/2021/492
+  address: 45 Ellie Avenue  RAWORTH  NSW  2321
+  description: Dwelling, Attached Secondary Dwelling and Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA/2021/493
+  address: 70 Christopher Road  LOCHINVAR  NSW  2321,799 New England Highway  LOCHINVAR  NSW  2321
+  description: Subdivision - Two (2) Lots into Two (2) Lots
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: DA/2021/494
+  address: 28 Bordeaux Terrace LOCHINVAR  NSW  2321
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA/2021/495
+  address: 4 Canter Close RUTHERFORD  NSW  2320
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA/2021/496
+  address: 52 Belmore Road  LORN  NSW  2320
+  description: Tree Application - Removal of One (1) Gum Tree
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA/2021/499
+  address: 9 Kamala Court ABERGLASSLYN  NSW  2320
+  description: Dwelling - Two (2) Storey & Retaining Wall
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA/2021/500
+  address: 16 Les Circuit  GILLIESTON HEIGHTS  NSW  2321
+  description: Carport and Patio
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/501
+  address: 121 Campbells Road  MAITLAND VALE  NSW  2320
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/502
+  address: 7 High Street  EAST MAITLAND  NSW  2323
+  description: Garage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/506
+  address: 10 Tangerine Street  GILLIESTON HEIGHTS  NSW  2321
+  description: Swimming Pool and Associated Safety Barriers
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA/2021/507
+  address: 3 Ridgetop Close  BOLWARRA HEIGHTS  NSW  2320
+  description: Shed and Carport
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA/2021/508
+  address: 81-85 Weblands Street  RUTHERFORD  NSW  2320
+  description: Shade Structure over existing Playground
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-13'
+- council_reference: DA/2021/509
+  address: 56 Stayard Drive  BOLWARRA HEIGHTS  NSW  2320
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA/2021/510
+  address: 98 Belmore Road  LORN  NSW  2320
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA/2021/511
+  address: 357 Louth Park Road  LOUTH PARK  NSW  2320
+  description: Detached Dual Occupancy and Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/512
+  address: 55 Tournament Street  RUTHERFORD  NSW  2320
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: DA/2021/514
+  address: 16 Marika Street LOCHINVAR  NSW  2321
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/515
+  address: 19 Cambrian Place  EAST MAITLAND  NSW  2323
+  description: Shed and Driveway Extension
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA/2021/517
+  address: 64 Hillcrest Drive  GILLIESTON HEIGHTS  NSW  2321
+  description: Shed
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/519
+  address: 29 Tangerine Street GILLIESTON HEIGHTS  NSW  2321
+  description: Dwelling and Secondary Dwelling
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA/2021/520
+  address: 41 Lerra Road  WINDELLA  NSW  2320
+  description: Conversion of Existing Garage to Dual Occupancy
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/521
+  address: 16 Mileham Circuit  RUTHERFORD  NSW  2320
+  description: Garage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: DA/2021/522
+  address: 428 High Street  MAITLAND  NSW  2320
+  description: Change of Use to Retail Premises
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-18'
+- council_reference: DA/2021/523
+  address: 23 Capital Terrace  BOLWARRA HEIGHTS  NSW  2320
+  description: Swimming Pool and Associated Safety Barriers
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: DA/2021/525
+  address: 51 Banks Street  EAST MAITLAND  NSW  2323
+  description: Dwelling Alterations and Additions
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/526
+  address: 133 High Street  EAST MAITLAND  NSW  2323
+  description: Alterations/Additions to Existing Dwelling and Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: DA/2021/527
+  address: 10 George Street  EAST MAITLAND  NSW  2323,11 High Street  EAST MAITLAND  NSW  2323
+  description: Subdivision - Boundary Adjustment
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA/2021/528
+  address: 57 Grand Parade RUTHERFORD  NSW  2320
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA/2021/529
+  address: 30 Banks Street  EAST MAITLAND  NSW  2323
+  description: Demolition of Existing Dwelling and Construction of Eight (8) Attached
+    Dwellings
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA/2021/531
+  address: 9 Grand Parade  RUTHERFORD  NSW  2320
+  description: Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: DA/2021/532
+  address: 18 Tourmaline Drive RUTHERFORD  NSW  2320
+  description: Dwelling and Attached Secondary Dwelling
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: DA/2021/534
+  address: 16 Musgrave Avenue  MAITLAND VALE  NSW  2320
+  description: Retaining Walls
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA/2021/535
+  address: 22 Mala Close  LOUTH PARK  NSW  2320
+  description: Alterations and Additions
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: DA/2021/536
+  address: 39 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition Home, Secondary Dwelling and Signage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA/2021/537
+  address: 41 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition Home and Signage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA/2021/538
+  address: 43 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition Home - Two Storey and Signage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA/2021/539
+  address: 45 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition Home - Two Storey and Signage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-13'
+- council_reference: DA/2021/541
+  address: 46 Portabello Crescent  THORNTON  NSW  2322
+  description: Swimming Pool
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA/2021/542
+  address: 49 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition Home - Two Storey and Signage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA/2021/543
+  address: 102 Carrington Street  HORSESHOE BEND  NSW  2320,104 Carrington Street  HORSESHOE
+    BEND  NSW  2320
+  description: Demolition of Existing Building, Garage & Shed. Construction of a Two
+    (2) Storey Dwelling and Consolidation of Two (2) Lots
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA/2021/544
+  address: 53 Grand Parade RUTHERFORD  NSW  2320
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: DA/2021/545
+  address: 47 Kingham Circuit THORNTON  NSW  2322
+  description: Exhibition Home and Signage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: DA/2021/546
+  address: 8 Riverdale Close RUTHERFORD  NSW  2320
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA/2021/548
+  address: 18 Suncroft Street CHISHOLM  NSW  2322
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: DA/2021/549
+  address: Bonar Street  MAITLAND  NSW  2320
+  description: Dwelling
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-12'
+- council_reference: DA/2021/551
+  address: 35 Princess Street  MORPETH  NSW  2321
+  description: Dwelling - Single Storey and Attached Garage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-13'
+- council_reference: DA/2021/552
+  address: 88 Avery Street  RUTHERFORD  NSW  2320
+  description: Dwelling Alterations and Additions
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: DA/2021/553
+  address: 6 Tanzanite Street RUTHERFORD  NSW  2320
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-13'
+- council_reference: DA/2021/554
+  address: 287 Settlers Boulevard CHISHOLM  NSW  2322
+  description: Dwelling - Double Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: DA/2021/555
+  address: 15 Thompson Street  RUTHERFORD  NSW  2320
+  description: Dwelling Alterations and Additions (Attached)
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-13'
+- council_reference: DA/2021/556
+  address: 88 Phoenix Park Road  PHOENIX PARK  NSW  2321
+  description: Hay Shed and Earth Mound
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-14'
+- council_reference: DA/2021/558
+  address: 50A King Street  EAST MAITLAND  NSW  2323
+  description: Removal of Three (3) Trees
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: DA/2021/559
+  address: 26 Mccann Avenue  EAST MAITLAND  NSW  2323
+  description: Carport
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-18'
+- council_reference: DA/2021/560
+  address: 199 Newcastle Street  EAST MAITLAND  NSW  2323
+  description: Strata Subdivision - One (1) into Two (2) Lot Subdivision
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-18'
+- council_reference: DA/2021/562
+  address: 16 Brighton Street THORNTON  NSW  2322,33 Brookland Promenade THORNTON  NSW  2322
+  description: Change of Use as Exhibition Homes with Adjoining Breezeway
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA/2021/563
+  address: 49 High Street  EAST MAITLAND  NSW  2323
+  description: Dwelling Alterations/Additions (Attached), Garage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA/2021/565
+  address: 9 Brisbane Street  LORN  NSW  2320
+  description: Garage
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: DA/2021/566
+  address: 2 Lizard Street  MAITLAND VALE  NSW  2320
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-18'
+- council_reference: DA/2021/567
+  address: 7 Mala Close  LOUTH PARK  NSW  2320
+  description: Shed and Carport
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: DA/2021/568
+  address: 21 Golden Whistler Avenue  ABERGLASSLYN  NSW  2320
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-18'
+- council_reference: DA/2021/569
+  address: 10 Swift Crescent  WINDELLA  NSW  2320
+  description: Swimming Pool & Associated Safety Barriers
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-17'
+- council_reference: DA/2021/573
+  address: 55 Grand Parade RUTHERFORD  NSW  2320
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-18'
+- council_reference: DA/2021/576
+  address: 30 Ekert Lane  BOLWARRA  NSW  2320
+  description: Removal of Two (2) Trees
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-18'
+- council_reference: DA/2021/577
+  address: 691 Wollombi Road  BISHOPS BRIDGE  NSW  2326
+  description: Dwelling Alterations/Additions (Attached)
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA/2021/578
+  address: 1517 Maitland Vale Road  LAMBS VALLEY  NSW  2335
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA/2021/579
+  address: 24 Canter Close RUTHERFORD  NSW  2320
+  description: Dwelling - Single Storey
+  info_url: https://myhorizon.maitland.nsw.gov.au/Horizon/logonOp.aw?e=FxkUAB1eSSgbAR0MXx0aEBcRFgEzEQE6F10WSz4UEUMAZgQSBwVHHAQdXDhUDDRATCUCXV8pHz4pHidmBBYGBUAWFQ0IAlVJAQQDGB9TEgIQDhp3ASUHBw%3D%3D
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-18'
