@@ -17,11 +17,6 @@ module HorizonXml
         "http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_lpsc",
       state: "NSW"
     },
-    uralla: {
-      start_url:
-        "http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_uralla",
-      state: "NSW"
-    },
     walcha: {
       start_url:
         "http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_walcha",
