@@ -1,0 +1,31 @@
+---
+- council_reference: DA2021/63.1
+  address: 4 Myall Street LEETON 2705 NSW
+  description: Shed extension
+  info_url: http://datracking.leeton.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/64.1
+  address: 1 Dundas Street LEETON 2705 NSW
+  description: Storage and car shed
+  info_url: http://datracking.leeton.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/65.1
+  address: 4 Fig Street LEETON 2705 NSW
+  description: New residential dwelling
+  info_url: http://datracking.leeton.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/66.1
+  address: 126 Petersham Road LEETON 2705 NSW
+  description: Torrens Title Subdivision
+  info_url: http://datracking.leeton.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA2021/67.1
+  address: 31-33 Daalbata Road LEETON 2705 NSW
+  description: Subdivide residential block
+  info_url: http://datracking.leeton.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
