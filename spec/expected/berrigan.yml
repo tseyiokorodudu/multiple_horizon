@@ -1,0 +1,73 @@
+---
+- council_reference: CC2021/130
+  address: 11 FRANKS ROAD BAROOGA 3644 NSW
+  description: RESIDENTIAL STORAGE SHED
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: CC2021/153
+  address: 95 NGAWE ROAD BAROOGA 3644 NSW
+  description: RURAL SHED
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CC2021/154
+  address: 8 BRUTON STREET TOCUMWAL 2714 NSW
+  description: FRONT AND REAR VERANDA
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CDC2021/35
+  address: 65 HUGHES STREET BAROOGA 3644 NSW
+  description: BV DWELLING & ATTACHED GARAGE
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: CDC2021/36
+  address: 82 BRUTON STREET TOCUMWAL 2714 NSW
+  description: BV DWELLING & ATTACHED GARAGE
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA2021/195
+  address: 11 FRANKS ROAD BAROOGA 3644 NSW
+  description: RESIDENTIAL STORAGE SHED
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA2021/197
+  address: SILO ROAD TOCUMWAL 2714 NSW
+  description: CHANGE OF USE TO PACKING SHED AND SITE AMENITIES/OFFICE
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA2021/198
+  address: 6 PUTTER COURT BAROOGA 3644 NSW
+  description: BV DWELLING & ATTACHED GARAGE/RESIDENTIAL STORAGE/POOL
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA2021/199
+  address: 8 BRUTON STREET TOCUMWAL 2714 NSW
+  description: FRONT AND REAR VERANDA
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: S682021/125
+  address: 82 BRUTON STREET TOCUMWAL 2714 NSW
+  description: WATER METER CONNECTION
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: S682021/126
+  address: SILO ROAD TOCUMWAL 2714 NSW
+  description: TRANSPORTABLE OFFICE
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: S682021/127
+  address: 1145 PEPPERTREE ROAD TOCUMWAL 2714 NSW
+  description: MANUFACTURED HOME
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'

@@ -7,6 +7,10 @@ require "active_support/core_ext/hash"
 # Scrape horizon (solorient) site
 module HorizonXml
   AUTHORITIES = {
+    berrigan: {
+      start_url: "http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home",
+      state: "NSW"
+    },
     leeton: {
       start_url: "http://datracking.leeton.nsw.gov.au/Horizon/logonGuest.aw?domain=horizondap#/home",
       state: "NSW"
