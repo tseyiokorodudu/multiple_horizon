@@ -17,12 +17,12 @@ module HorizonXml
     },
     cowra: {
       start_url:
-        "http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_cowra",
+        "https://mycouncil.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_cowra#/home",
       state: "NSW"
     },
     liverpool_plains: {
       start_url:
-        "http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_lpsc",
+        "https://mycouncil.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_lpsc#/home",
       state: "NSW"
     },
     walcha: {
@@ -31,7 +31,7 @@ module HorizonXml
       state: "NSW"
     },
     weddin: {
-      start_url: "http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap",
+      start_url: "https://mycouncil.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_weddin#/home",
       state: "NSW"
     },
     maitland: {
