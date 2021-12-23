@@ -143,7 +143,7 @@ module HorizonXml
       "Applications.Lodged DESC",
     query_name: "SubmittedThisMonth",
     state: nil,
-    australian_proxy: false
+    australian_proxy: false,
     disable_ssl_certificate_check: false
   )
     agent = Mechanize.new
