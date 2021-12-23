@@ -25,9 +25,14 @@ module HorizonXml
         "https://mycouncil.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_lpsc#/home",
       state: "NSW"
     },
+    warrumbungle: {
+      start_url: "https://mycouncil.warrumbungle.nsw.gov.au:6443/Horizon/logonGuest.aw?domain=horizondaplive#/home",
+      state: "NSW",
+      australian_proxy: true
+    },
     walcha: {
       start_url:
-        "http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_walcha",
+        "https://mycouncil.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_walcha#/home",
       state: "NSW"
     },
     weddin: {
@@ -138,11 +143,19 @@ module HorizonXml
       "Applications.Lodged DESC",
     query_name: "SubmittedThisMonth",
     state: nil,
+    australian_proxy: false
     disable_ssl_certificate_check: false
   )
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
-
+    
+     if australian_proxy
+      # On morph.io set the environment variable MORPH_AUSTRALIAN_PROXY to
+      # http://morph:password@au.proxy.oaf.org.au:8888 replacing password with
+      # the real password.
+      agent.agent.set_proxy(ENV["MORPH_AUSTRALIAN_PROXY"])
+    end
+    
     agent.get(start_url)
     page = agent.get(
       query_url(
